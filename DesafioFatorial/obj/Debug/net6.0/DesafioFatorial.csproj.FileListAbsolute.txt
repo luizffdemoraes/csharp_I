@@ -1,0 +1,15 @@
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.csproj.AssemblyReference.cache
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.AssemblyInfoInputs.cache
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.AssemblyInfo.cs
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.csproj.CoreCompileInputs.cache
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.exe
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.deps.json
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.runtimeconfig.json
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.dll
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\bin\Debug\net6.0\DesafioFatorial.pdb
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.dll
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\refint\DesafioFatorial.dll
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.pdb
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\DesafioFatorial.genruntimeconfig.cache
+C:\estudos\alura\csharp\AprendendoCSharp\DesafioFatorial\obj\Debug\net6.0\ref\DesafioFatorial.dll

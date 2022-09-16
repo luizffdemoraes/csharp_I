@@ -1,0 +1,15 @@
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\bin\Debug\net6.0\Switch.exe
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\bin\Debug\net6.0\Switch.deps.json
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\bin\Debug\net6.0\Switch.runtimeconfig.json
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\bin\Debug\net6.0\Switch.dll
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\bin\Debug\net6.0\Switch.pdb
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.csproj.AssemblyReference.cache
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.AssemblyInfoInputs.cache
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.AssemblyInfo.cs
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.csproj.CoreCompileInputs.cache
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.dll
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\refint\Switch.dll
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.pdb
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\Switch.genruntimeconfig.cache
+C:\estudos\alura\csharp\AprendendoCSharp\Switch\obj\Debug\net6.0\ref\Switch.dll
